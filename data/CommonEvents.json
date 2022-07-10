@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,0,""]},{"code":401,"indent":0,"parameters":["<center>"]},{"code":401,"indent":0,"parameters":["ต้องการเซฟหรือไม่"]},{"code":401,"indent":0,"parameters":["</center>"]},{"code":102,"indent":0,"parameters":[["ใช่","ไม่"],1,0,1,0]},{"code":402,"indent":0,"parameters":[0,"ใช่"]},{"code":352,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"ไม่"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Save Screen","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"Exit","switchId":1,"trigger":0}
+]

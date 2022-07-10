@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "ByouAdventure v.1.1.0",
+        "width": 1600,
+        "height": 900,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
